@@ -1,1 +1,1 @@
-# fiap-netgifs
+# fiap-shopping-list
